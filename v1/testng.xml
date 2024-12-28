@@ -1,0 +1,15 @@
+<suite thread-count="1" parallel="tests" name="Suite">
+<test thread-count="3" parallel="classes" name="Test1">
+<classes>
+<class name="com.testng.selenium.v1.LamdaTest"/>
+</classes>
+</test>
+<!--  Test  -->
+<test thread-count="2" parallel="classes" name="Test2">
+<classes>
+<class name="com.testng.selenium.v1.LamdaTest"/>
+</classes>
+</test>
+<!--  Test  -->
+</suite>
+<!--  Suite  -->

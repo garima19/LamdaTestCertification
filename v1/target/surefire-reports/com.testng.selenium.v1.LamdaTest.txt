@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.testng.selenium.v1.LamdaTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.735 s -- in com.testng.selenium.v1.LamdaTest
